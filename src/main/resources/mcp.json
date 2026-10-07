@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-web-crawler": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/rajesh/Desktop/Java/mcp-web-crawler/target/mcp-web-crawler.jar"
+      ]
+    }
+  }
+}
